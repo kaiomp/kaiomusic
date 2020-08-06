@@ -1,0 +1,4 @@
+AuthName "/bot"
+AuthUserFile "/home4/v6z5w3j0/.htpasswds/tsites/kaiomusic.com/crypto/bot/passwd"
+AuthType Basic
+require valid-user
